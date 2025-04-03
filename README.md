@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6446b18a-ce96-4f93-bb9f-a40765c73770)# LECOS
 This is the open source code for the paper "Very fine spatial resolution urban land cover mapping using an explicable sub-pixel mapping network based on learnable spatial correlation"
 
 ![@C LS0S)G4I2(VA~R6H73_L](https://github.com/user-attachments/assets/e20b5868-0b6a-45d0-8245-5869b1e5a993)
